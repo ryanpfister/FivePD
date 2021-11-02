@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.fivepdcommunity.com",
     "slug": "five-pd",
     "status": "down",
-    "uptime": "0.98%",
-    "uptimeDay": "0.98%",
-    "uptimeWeek": "0.98%",
-    "uptimeMonth": "0.98%",
-    "uptimeYear": "0.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-11-02": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Status Page",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/status.fivepdcommunity.com",
     "slug": "status-page",
     "status": "down",
-    "uptime": "2.36%",
-    "uptimeDay": "2.36%",
-    "uptimeWeek": "2.36%",
-    "uptimeMonth": "2.36%",
-    "uptimeYear": "2.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-11-02": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord Page",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/status.fivepdcommunity.com",
     "slug": "discord-page",
     "status": "down",
-    "uptime": "1.54%",
-    "uptimeDay": "1.54%",
-    "uptimeWeek": "1.54%",
-    "uptimeMonth": "1.54%",
-    "uptimeYear": "1.54%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-11-02": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FiveM Server",
@@ -65,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/fivepdcommunity.com",
     "slug": "five-m-server",
     "status": "down",
-    "uptime": "71.61%",
-    "uptimeDay": "71.61%",
-    "uptimeWeek": "71.61%",
-    "uptimeMonth": "71.61%",
-    "uptimeYear": "71.61%",
+    "uptime": "35.67%",
+    "uptimeDay": "35.67%",
+    "uptimeWeek": "35.67%",
+    "uptimeMonth": "35.67%",
+    "uptimeYear": "35.67%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-02": 0
+      "2021-11-02": 2
     }
   }
 ]
