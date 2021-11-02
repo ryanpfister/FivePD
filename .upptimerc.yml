@@ -3,29 +3,29 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: FivePD
+    url: https://www.fivepdcommunity.com
+  - name: Status Page
+    url: https://status.fivepdcommunity.com
+  - name: Discord Page
+    url: https://status.fivepdcommunity.com
+  - name: FiveM Server
+    url: https://fivepdcommunity.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.fivepdcommunity.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://imgr.search.brave.com/Uw5ljUG4A8DIkB6u6g6D-3u3qmu1oaA1eUjauRXCNwU/fit/240/240/ce/1/aHR0cHM6Ly9ndGFw/b2xpY2Vtb2RzLmNv/bS91cGxvYWRzL21v/bnRobHlfMjAxOV8x/Mi9maXZlcGRfbG9n/by50aHVtYi5wbmcu/NmY0NzVlNmI0MTcy/NGEzZGM2ZjJmYWE3/NjExNzYzMjkucG5n
+  name: FivePD Community
+  introTitle: "**FivePD Community** is a highly entertaining FiveM server using FivePD"
+  introMessage: Thanks for choosing FivePD Community)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Discord
+      href: https://www.fivepdcommunity.com/discord
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
