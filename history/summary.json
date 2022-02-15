@@ -22,10 +22,10 @@
     "url": "https://status.fivepdcommunity.com",
     "icon": "https://favicons.githubusercontent.com/status.fivepdcommunity.com",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
@@ -33,7 +33,9 @@
     "timeWeek": 345,
     "timeMonth": 409,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-15": 2
+    }
   },
   {
     "name": "Discord Page",
@@ -61,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/fivepdcommunity.com",
     "slug": "five-m-server",
     "status": "down",
-    "uptime": "26.36%",
+    "uptime": "26.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.36%",
+    "uptimeYear": "26.15%",
     "time": 277,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 277,
     "dailyMinutesDown": {
-      "2022-02-15": 39,
+      "2022-02-15": 1256,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
