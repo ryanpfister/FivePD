@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fivepdcommunity.com.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "73.11%",
+    "uptime": "72.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "63.54%",
-    "time": 561,
+    "uptimeYear": "63.27%",
+    "time": 562,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 520,
+    "timeYear": 521,
     "dailyMinutesDown": {
-      "2023-03-12": 55,
+      "2023-03-13": 52,
+      "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
@@ -172,8 +173,7 @@
       "2022-06-21": 58,
       "2022-05-25": 16,
       "2022-03-18": 23,
-      "2022-03-14": 31,
-      "2022-03-13": 10
+      "2022-03-14": 31
     }
   },
   {
@@ -182,18 +182,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fivepdcommunity.com.ico",
     "slug": "discord-page",
     "status": "down",
-    "uptime": "73.12%",
+    "uptime": "72.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "63.55%",
-    "time": 189,
+    "uptimeYear": "63.28%",
+    "time": 190,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 213,
+    "timeYear": 214,
     "dailyMinutesDown": {
-      "2023-03-12": 55,
+      "2023-03-13": 52,
+      "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
@@ -329,8 +330,7 @@
       "2022-10-30": 1274,
       "2022-06-30": 68,
       "2022-06-21": 58,
-      "2022-03-14": 31,
-      "2022-03-13": 10
+      "2022-03-14": 31
     }
   },
   {
@@ -339,7 +339,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fivepdcommunity.com.ico",
     "slug": "five-m-server",
     "status": "down",
-    "uptime": "5.59%",
+    "uptime": "5.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -350,7 +350,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-12": 55,
+      "2023-03-13": 52,
+      "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
@@ -713,8 +714,7 @@
       "2022-03-17": 1440,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
-      "2022-03-14": 1440,
-      "2022-03-13": 1440
+      "2022-03-14": 1440
     }
   }
 ]
