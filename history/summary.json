@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fivepdcommunity.com.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "72.96%",
+    "uptime": "72.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "63.27%",
+    "uptimeYear": "63.01%",
     "time": 562,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 521,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2023-03-13": 52,
+      "2023-03-14": 44,
+      "2023-03-13": 1440,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
@@ -172,8 +173,7 @@
       "2022-06-30": 68,
       "2022-06-21": 58,
       "2022-05-25": 16,
-      "2022-03-18": 23,
-      "2022-03-14": 31
+      "2022-03-18": 23
     }
   },
   {
@@ -182,18 +182,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fivepdcommunity.com.ico",
     "slug": "discord-page",
     "status": "down",
-    "uptime": "72.97%",
+    "uptime": "72.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "63.28%",
+    "uptimeYear": "63.01%",
     "time": 190,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 214,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2023-03-13": 52,
+      "2023-03-14": 44,
+      "2023-03-13": 1440,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
@@ -329,8 +330,7 @@
       "2022-10-31": 1440,
       "2022-10-30": 1274,
       "2022-06-30": 68,
-      "2022-06-21": 58,
-      "2022-03-14": 31
+      "2022-06-21": 58
     }
   },
   {
@@ -339,7 +339,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fivepdcommunity.com.ico",
     "slug": "five-m-server",
     "status": "down",
-    "uptime": "5.58%",
+    "uptime": "5.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -350,7 +350,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-13": 52,
+      "2023-03-14": 44,
+      "2023-03-13": 1440,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
@@ -713,8 +714,7 @@
       "2022-03-18": 1440,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
-      "2022-03-15": 1440,
-      "2022-03-14": 1440
+      "2022-03-15": 1440
     }
   }
 ]
