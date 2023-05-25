@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fivepdcommunity.com.ico",
     "slug": "status-page",
     "status": "down",
-    "uptime": "63.71%",
+    "uptime": "63.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.56%",
-    "time": 615,
+    "uptimeYear": "43.28%",
+    "time": 605,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2023-05-24": 50,
+      "2023-05-25": 48,
+      "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -242,8 +243,7 @@
       "2022-10-31": 1440,
       "2022-10-30": 1275,
       "2022-06-30": 68,
-      "2022-06-21": 58,
-      "2022-05-25": 16
+      "2022-06-21": 58
     }
   },
   {
@@ -252,18 +252,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.fivepdcommunity.com.ico",
     "slug": "discord-page",
     "status": "down",
-    "uptime": "63.72%",
+    "uptime": "63.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "43.56%",
+    "uptimeYear": "43.29%",
     "time": 203,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-05-24": 50,
+      "2023-05-25": 48,
+      "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -491,7 +492,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-24": 50,
+      "2023-05-25": 48,
+      "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -854,8 +856,7 @@
       "2022-05-29": 1440,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
-      "2022-05-26": 1440,
-      "2022-05-25": 1440
+      "2022-05-26": 1440
     }
   }
 ]
